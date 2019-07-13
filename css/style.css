@@ -83,3 +83,31 @@ header div button {
 .sec-one .section-cont div p:last-of-type {
     color: #777;
 }
+
+/* *********** section two ************* */
+
+.sec-two {
+    background-color: #333;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.sec-two .section-cont h3 {
+    color: #bbb;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    margin-bottom: 30px;
+}
+
+.sec-two .section-cont .content {
+    width: 50%;
+    display: inline-block;
+    color: #999;
+    margin-bottom: 10px;
+}
+
+.sec-two .section-cont .said-name {
+    text-transform: uppercase;
+    color: orange;
+    margin: 20px 0;
+}
