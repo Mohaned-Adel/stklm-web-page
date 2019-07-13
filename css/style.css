@@ -111,3 +111,42 @@ header div button {
     color: orange;
     margin: 20px 0;
 }
+
+/* ********** section three ********** */
+
+.portfolio .portfolio-head {
+    text-align: center;
+    text-transform: uppercase;
+    margin: 50px 0;
+    font-size: 25px;
+}
+
+.portfolio .layouts {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.portfolio .layouts img {
+    width: 25%;
+}
+
+.portfolio .layouts-text {
+    margin: 100px 80px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between
+}
+
+.portfolio .layouts-text .layouts-text-div {
+    width: 30%;
+    margin-bottom: 40px;
+}
+
+.portfolio .layouts-text .layouts-text-div .layouts-head {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.portfolio .layouts-text .layouts-text-div .layouts-par {
+    color: #bbb
+}
