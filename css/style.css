@@ -150,3 +150,31 @@ header div button {
 .portfolio .layouts-text .layouts-text-div .layouts-par {
     color: #bbb
 }
+
+/* *************section four ******* */
+
+.self-info {
+    background-color: #333;
+    padding: 100px 150px;
+}
+
+.self-info .self-info-cont {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    text-align: center;
+}
+
+.self-info .self-info-cont .font {
+    margin-bottom: 25px;
+    font-size: 30px;
+}
+
+.self-info .self-info-cont .number {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.self-info .self-info-cont .comment {
+    color: #bbb
+}
