@@ -178,3 +178,27 @@ header div button {
 .self-info .self-info-cont .comment {
     color: #bbb
 }
+
+/* *********section five******* */
+
+.theme-sec .theme-sec-cont {
+    padding: 50px 100px;
+    text-align: center;
+}
+
+.theme-sec .theme-sec-cont .head {
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+.theme-sec .theme-sec-cont .parag {
+    color: #777;
+    margin: 30px 0;
+}
+
+.theme-sec .theme-sec-cont button {
+    padding: 10px 30px;
+    background-color: orange;
+    color: white;
+    border: 2px solid transparent;
+}
