@@ -201,4 +201,46 @@ header div button {
     background-color: orange;
     color: white;
     border: 2px solid transparent;
+    cursor: pointer;
+}
+
+/* ***********footer ******* */
+
+footer .footer-cont {
+    background-color: #333;
+    color: #777;
+    padding: 100px 150px;
+    display: flex;
+    justify-content: space-between
+}
+
+footer .footer-cont .social-div {
+    width: 20%;
+}
+
+footer .footer-cont .footer-head {
+    color: white;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+footer .footer-cont .social-media-icons {
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 35%;
+}
+
+footer .footer-cont .social-media-icons .icon {
+    color: black;
+    background-color: orange;
+    border: 2px solid transparent;
+    border-radius: 50%;
+    padding: 5px;
+    cursor: pointer;
+}
+
+footer .footer-cont .bor {
+    border-left: 1px solid #777;
+    padding-left: 30px;
 }
